@@ -35,7 +35,9 @@ MindscapeVR
 
 ![Captura de tela 2024-11-24 221253](https://github.com/user-attachments/assets/d6d02298-5a8c-48c4-b222-3b05f8087f13)
 
+![Captura de tela 2024-11-24 223014](https://github.com/user-attachments/assets/87e9cb45-d85c-4b9c-856a-ce137dba258d)
 
+![Captura de tela 2024-11-24 223024](https://github.com/user-attachments/assets/08eb5dbc-9371-4e65-8fe0-1cda792d5a45)
 
 Documento final       [MindscapeVR.pdf](https://github.com/user-attachments/files/17896013/MindscapeVR.pdf)
 
